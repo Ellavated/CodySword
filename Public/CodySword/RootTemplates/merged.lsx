@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+                <node id="GameObjects">
+                    <attribute id="Description" type="TranslatedString" handle="h59791e806ae041e2a4b66a09de7a4945" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h478d6aa59538492aa87705ec00162fae" version="1" />
+                    <attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Longsword_A_1" />
+                    <attribute id="MapKey" type="FixedString" value="d00fc3f8-6537-4094-8119-bcba5833750e" />
+                    <attribute id="Name" type="LSString" value="CodySword_Excalibur" />
+                    <attribute id="ParentTemplateId" type="FixedString" value="777cb3d5-0689-4cfd-9719-b460897cb9e6" />
+                    <attribute id="Stats" type="FixedString" value="CodySword_Excalibur" />
+                    <attribute id="Type" type="FixedString" value="item" />
+                    <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+                    <children>
+                        <node id="GameMaster" />
+                    </children>
+                </node>
+			</children>
+		</node>
+	</region>
+</save>

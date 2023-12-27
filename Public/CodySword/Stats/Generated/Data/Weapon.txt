@@ -1,0 +1,18 @@
+
+new entry "CodySword_Excalibur"
+type "weapon"
+using "WPN_Longsword_1"
+data "RootTemplate" "d00fc3f8-6537-4094-8119-bcba5833750e"
+data "Rarity" "Legendary"
+data "Damage" "20d20"
+data "Damage Type" "Slashing"
+data "Weight" "1.35"
+data "ValueOverride" "34000"
+data "DefaultBoosts" "WeaponEnchantment(3);WeaponProperty(Magical);WeaponDamage(5d10,Radiant)"
+data "Boosts" "UnlockSpell(Shout_DivineIntervention);UnlockSpell(Target_LOW_DarkUrge_PowerWordKill)"
+data "BoostsOnEquipMainHand" "UnlockSpell(Target_WYR_PolymorhphCheese_Djinni")"
+data "Proficiency Group" "Longswords;MartialWeapons"
+data "Weapon Properties" "Versatile;Melee;Dippable;Magical;Finesse;"
+data "VersatileDamage" "10d20"
+data "Unique" "1"
+    
